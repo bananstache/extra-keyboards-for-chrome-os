@@ -17,7 +17,7 @@ limitations under the License.
   "name": "Dvorak left",
   "version": "1.0",
   "manifest_version": 2,
-  "description": "Dvorak layout for the left hand",
+  "description": "Dvoraktwo",
   "background": {
     "scripts": ["background.js"]
   },
@@ -26,10 +26,10 @@ limitations under the License.
   ],
   "input_components": [
     {
-      "name": "Dvorak left",
+      "name": "Dvoraktwo",
       "type": "ime",
-      "id": "dvorak_left",
-      "description": "Dvorak layout for the left hand",  // user visible description
+      "id": "Dvorak_two",
+      "description": "A version two of Dvorak",  // user visible description
       "language": "en-US",  // The primary language this IME is used for
       "layouts": ["us"]
     }
